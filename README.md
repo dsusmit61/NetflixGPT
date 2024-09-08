@@ -5,6 +5,8 @@ Features -
 
 SignUp/Login Page
 
+- Header
+  - Logo
 - Sign Up/Login form
   - once authenticated redirects to browse page
     Browse - (after authentication only)
